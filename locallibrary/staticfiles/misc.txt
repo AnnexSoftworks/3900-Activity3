@@ -1,0 +1,3 @@
+This is the creation of a misc. .txt file in order to create the new empty directory for the staticfiles directory, to resolve the duplicate dessignation in settings.py.
+
+This file is safe to delete once the new directory/commit has been created.
